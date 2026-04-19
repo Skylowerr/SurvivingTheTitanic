@@ -94,7 +94,7 @@ A reusable slider component used for numerical inputs like age, fare, and family
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Titanic.git
+   git clone https://github.com/Skylowerr/Titanic.git
    ```
 2. Open `Titanic.xcodeproj` in Xcode.
 3. Select a simulator (e.g. **iPhone 17 Pro**) and press **Run** (`⌘R`).
